@@ -681,150 +681,150 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[semver](https://www.npmjs.com/semver)|v7.3.5|11/12/21|Brad Jorsch |ISC|[CVE-2022-25883](https://github.com/advisories/GHSA-c2qf-rxjj-qqgw) (Moderate)|
-|[@babel/core](https://www.npmjs.com/@babel/core)|v7.24.0|03/02/24|Calypso Bot |MIT|N/A|
-|[@babel/plugin-syntax-jsx](https://www.npmjs.com/@babel/plugin-syntax-jsx)|v7.23.3|04/05/24|Calypso Bot |MIT|N/A|
-|[@babel/plugin-transform-react-jsx](https://www.npmjs.com/@babel/plugin-transform-react-jsx)|v7.23.4|04/05/24|Calypso Bot |MIT|N/A|
-|[@babel/plugin-transform-runtime](https://www.npmjs.com/@babel/plugin-transform-runtime)|v7.24.0|04/05/24|Calypso Bot |MIT|N/A|
-|[@babel/preset-env](https://www.npmjs.com/@babel/preset-env)|v7.24.0|03/02/24|Calypso Bot |MIT|N/A|
-|[@babel/preset-react](https://www.npmjs.com/@babel/preset-react)|v7.23.3|04/05/24|Calypso Bot |MIT|N/A|
-|[@babel/preset-typescript](https://www.npmjs.com/@babel/preset-typescript)|v7.23.3|03/02/24|Calypso Bot |MIT|N/A|
-|[@babel/runtime](https://www.npmjs.com/@babel/runtime)|v7.24.0|03/02/24|Calypso Bot |MIT|N/A|
-|[@octokit/rest](https://www.npmjs.com/@octokit/rest)|v20.1.0|04/05/24|Calypso Bot |MIT|N/A|
-|[@rollup/plugin-node-resolve](https://www.npmjs.com/@rollup/plugin-node-resolve)|v13.3.0|03/19/24|Calypso Bot |MIT|N/A|
-|[@sentry/browser](https://www.npmjs.com/@sentry/browser)|v7.80.1|12/04/23|daledupreez |MIT|N/A|
-|[@storybook/addon-a11y](https://www.npmjs.com/@storybook/addon-a11y)|v8.0.6|04/05/24|Calypso Bot |MIT|N/A|
-|[@storybook/addon-actions](https://www.npmjs.com/@storybook/addon-actions)|v8.0.6|04/05/24|Calypso Bot |MIT|N/A|
-|[@storybook/addon-docs](https://www.npmjs.com/@storybook/addon-docs)|v8.0.6|04/05/24|Calypso Bot |MIT|N/A|
-|[@storybook/addon-storysource](https://www.npmjs.com/@storybook/addon-storysource)|v8.0.6|04/05/24|Calypso Bot |MIT|N/A|
-|[@storybook/react](https://www.npmjs.com/@storybook/react)|v8.0.6|04/05/24|Calypso Bot |MIT|N/A|
-|[@storybook/theming](https://www.npmjs.com/@storybook/theming)|v8.0.6|04/05/24|Calypso Bot |MIT|N/A|
-|[@svgr/webpack](https://www.npmjs.com/@svgr/webpack)|v7.0.0|03/28/24|Adnan Haque |MIT|N/A|
-|[@testing-library/jest-dom](https://www.npmjs.com/@testing-library/jest-dom)|v6.4.2|04/05/24|Calypso Bot |MIT|N/A|
-|[@testing-library/react](https://www.npmjs.com/@testing-library/react)|v14.2.1|04/05/24|Calypso Bot |MIT|N/A|
-|[@types/jest](https://www.npmjs.com/@types/jest)|v29.5.12|04/05/24|Calypso Bot |MIT|N/A|
-|[@types/jquery](https://www.npmjs.com/@types/jquery)|v3.5.29|04/05/24|Calypso Bot |MIT|N/A|
-|[@types/node](https://www.npmjs.com/@types/node)|v20.4.2|04/05/24|Calypso Bot |MIT|N/A|
-|[@types/react](https://www.npmjs.com/@types/react)|v18.2.74|04/05/24|Calypso Bot |MIT|N/A|
-|[@types/react-dom](https://www.npmjs.com/@types/react-dom)|v18.2.24|04/05/24|Calypso Bot |MIT|N/A|
-|[@types/react-router-dom](https://www.npmjs.com/@types/react-router-dom)|v5.3.3|04/05/24|Calypso Bot |MIT|N/A|
-|[@types/react-test-renderer](https://www.npmjs.com/@types/react-test-renderer)|v18.0.7|04/05/24|Calypso Bot |MIT|N/A|
-|[@typescript-eslint/eslint-plugin](https://www.npmjs.com/@typescript-eslint/eslint-plugin)|v6.7.5|04/05/24|Calypso Bot |MIT|N/A|
-|[@typescript-eslint/parser](https://www.npmjs.com/@typescript-eslint/parser)|v6.7.5|10/11/23|Calypso Bot |BSD-2-Clause|N/A|
-|[babel-jest](https://www.npmjs.com/babel-jest)|v29.7.0|04/05/24|Calypso Bot |MIT|N/A|
-|[babel-loader](https://www.npmjs.com/babel-loader)|v9.1.2|04/05/24|Calypso Bot |MIT|N/A|
-|[babel-plugin-tester](https://www.npmjs.com/babel-plugin-tester)|v11.0.4|03/02/24|Calypso Bot |MIT|N/A|
-|[browserslist](https://www.npmjs.com/browserslist)|v4.17.6|04/05/24|Calypso Bot |MIT|N/A|
-|[chalk](https://www.npmjs.com/chalk)|v5.0.1|06/06/22|Brad Jorsch |MIT|N/A|
-|[cheerio](https://www.npmjs.com/cheerio)|v1.0.0|09/30/22|thingalon |MIT|N/A|
-|[chokidar](https://www.npmjs.com/chokidar)|v3.5.3|01/17/24|Samiff |MIT|N/A|
-|[classnames](https://www.npmjs.com/classnames)|v2.3.2|08/01/23|Renato Augusto Gama dos Santos |MIT|N/A|
-|[clipboard](https://www.npmjs.com/clipboard)|v2.0.6|01/14/21|Brandon Kraft |MIT|N/A|
-|[commander](https://www.npmjs.com/commander)|v9.3.0|06/06/22|Brad Jorsch |MIT|N/A|
-|[compare-versions](https://www.npmjs.com/compare-versions)|v3.6.0|04/05/24|Calypso Bot |MIT|N/A|
-|[concurrently](https://www.npmjs.com/concurrently)|v7.6.0|03/04/23|Calypso Bot |MIT|N/A|
-|[config](https://www.npmjs.com/config)|v3.3.7|03/21/24|Jeremy Herve |MIT|N/A|
-|[configstore](https://www.npmjs.com/configstore)|v5.0.1|03/02/21|Steve D |BSD-2-Clause|N/A|
-|[cookie](https://www.npmjs.com/cookie)|v0.4.1|01/14/21|Brandon Kraft |MIT|N/A|
-|[copy-webpack-plugin](https://www.npmjs.com/copy-webpack-plugin)|v11.0.0|04/05/24|Calypso Bot |MIT|N/A|
-|[core-js](https://www.npmjs.com/core-js)|v3.23.5|03/02/24|Calypso Bot |MIT|N/A|
-|[debug](https://www.npmjs.com/debug)|v4.3.4|07/25/23|Damián Suárez |MIT|N/A|
-|[diff](https://www.npmjs.com/diff)|v4.0.2|11/16/22|Nate Weller |BSD-3-Clause|N/A|
-|[enquirer](https://www.npmjs.com/enquirer)|v2.4.1|12/06/23|Steve D |MIT|N/A|
-|[eslint-config-prettier](https://www.npmjs.com/eslint-config-prettier)|v9.0.0|04/05/24|Calypso Bot |MIT|N/A|
-|[eslint-plugin-import](https://www.npmjs.com/eslint-plugin-import)|v2.28.1|04/05/24|Calypso Bot |MIT|N/A|
-|[eslint-plugin-jest](https://www.npmjs.com/eslint-plugin-jest)|v27.4.2|04/05/24|Calypso Bot |MIT|N/A|
-|[eslint-plugin-jsdoc](https://www.npmjs.com/eslint-plugin-jsdoc)|v46.8.2|04/05/24|Calypso Bot |BSD-3-Clause|N/A|
-|[eslint-plugin-jsx-a11y](https://www.npmjs.com/eslint-plugin-jsx-a11y)|v6.7.1|04/05/24|Calypso Bot |MIT|N/A|
-|[eslint-plugin-lodash](https://www.npmjs.com/eslint-plugin-lodash)|v7.4.0|04/05/24|Calypso Bot |MIT|N/A|
-|[eslint-plugin-prettier](https://www.npmjs.com/eslint-plugin-prettier)|v5.0.1|04/05/24|Calypso Bot |MIT|N/A|
-|[eslint-plugin-react](https://www.npmjs.com/eslint-plugin-react)|v7.33.2|04/05/24|Calypso Bot |MIT|N/A|
-|[eslint-plugin-react-hooks](https://www.npmjs.com/eslint-plugin-react-hooks)|v4.6.0|04/05/24|Calypso Bot |MIT|N/A|
-|[events](https://www.npmjs.com/events)|v3.3.0|04/05/24|Calypso Bot |MIT|N/A|
-|[execa](https://www.npmjs.com/execa)|v7.0.0|02/13/23|Calypso Bot |MIT|N/A|
-|[fancy-log](https://www.npmjs.com/fancy-log)|v1.3.3|05/06/21|Brian Colinger |MIT|N/A|
-|[filesize](https://www.npmjs.com/filesize)|v8.0.6|08/16/22|Damián Suárez |BSD-3-Clause|N/A|
-|[fork-ts-checker-webpack-plugin](https://www.npmjs.com/fork-ts-checker-webpack-plugin)|v9.0.2|04/05/24|Calypso Bot |MIT|N/A|
-|[fs-extra](https://www.npmjs.com/fs-extra)|v10.0.0|02/09/24|Brad Jorsch |MIT|N/A|
-|[glob](https://www.npmjs.com/glob)|v7.1.6|03/30/21|Jeremy Herve |ISC|N/A|
-|[history](https://www.npmjs.com/history)|v5.3.0|04/05/24|Calypso Bot |MIT|N/A|
-|[husky](https://www.npmjs.com/husky)|v8.0.3|02/14/23|Calypso Bot |MIT|N/A|
-|[ignore](https://www.npmjs.com/ignore)|v5.1.8|01/26/22|Brad Jorsch |MIT|N/A|
-|[intersection-observer](https://www.npmjs.com/intersection-observer)|v0.12.0|01/18/22|Brad Jorsch |W3C-20150513|N/A|
-|[jest-environment-jsdom](https://www.npmjs.com/jest-environment-jsdom)|v29.7.0|04/05/24|Calypso Bot |MIT|N/A|
-|[jest-extended](https://www.npmjs.com/jest-extended)|v4.0.2|12/18/23|Calypso Bot |MIT|N/A|
-|[js-yaml](https://www.npmjs.com/js-yaml)|v4.1.0|04/21/21|renovate[bot] |MIT|N/A|
-|[listr](https://www.npmjs.com/listr)|v0.14.3|01/27/22|Brad Jorsch |MIT|N/A|
-|[mapbox-gl](https://www.npmjs.com/mapbox-gl)|v1.13.0|01/14/21|Brandon Kraft |ICU|N/A|
-|[markdown-it](https://www.npmjs.com/markdown-it)|v14.0.0|02/06/24|Calypso Bot |MIT|N/A|
-|[mime-types](https://www.npmjs.com/mime-types)|v2.1.35|03/12/24|Brad Jorsch |MIT|N/A|
-|[mini-css-extract-plugin](https://www.npmjs.com/mini-css-extract-plugin)|v2.4.5|04/05/24|Calypso Bot |MIT|N/A|
-|[minimatch](https://www.npmjs.com/minimatch)|v5.1.0|09/12/22|Adrian Moldovan |ISC|N/A|
-|[moment](https://www.npmjs.com/moment)|v2.29.4|07/06/22|Calypso Bot |MIT|N/A|
-|[node-fetch](https://www.npmjs.com/node-fetch)|v2.6.7|01/24/22|renovate[bot] |MIT|N/A|
-|[p-limit](https://www.npmjs.com/p-limit)|v4.0.0|02/03/22|Brad Jorsch |MIT|N/A|
-|[pluralize](https://www.npmjs.com/pluralize)|v8.0.0|02/15/21|Brandon Kraft |MIT|N/A|
-|[postcss-custom-properties](https://www.npmjs.com/postcss-custom-properties)|v12.1.7|02/15/24|Brad Jorsch |MIT|N/A|
-|[postcss-loader](https://www.npmjs.com/postcss-loader)|v6.2.0|04/05/24|Calypso Bot |MIT|N/A|
-|[process](https://www.npmjs.com/process)|v0.11.10|01/27/21|Brandon Kraft |MIT|N/A|
-|[prop-types](https://www.npmjs.com/prop-types)|v15.7.2|04/05/24|Calypso Bot |MIT|N/A|
-|[react-dom](https://www.npmjs.com/react-dom)|v18.2.0|04/05/24|Calypso Bot |MIT|N/A|
-|[react-redux](https://www.npmjs.com/react-redux)|v7.2.8|01/18/24|Kev |MIT|N/A|
-|[react-router-dom](https://www.npmjs.com/react-router-dom)|v6.10.0|01/18/24|Kev |MIT|N/A|
-|[react-test-renderer](https://www.npmjs.com/react-test-renderer)|v18.2.0|04/05/24|Calypso Bot |MIT|N/A|
-|[react-transition-group](https://www.npmjs.com/react-transition-group)|v4.4.5|01/18/24|Kev |BSD-3-Clause|N/A|
-|[regenerator-runtime](https://www.npmjs.com/regenerator-runtime)|v0.13.9|03/02/24|Calypso Bot |MIT|N/A|
-|[remark-gfm](https://www.npmjs.com/remark-gfm)|v4.0.0|03/25/24|Calypso Bot |N/A|N/A|
-|[require-from-string](https://www.npmjs.com/require-from-string)|v2.0.2|06/15/22|Calypso Bot |MIT|N/A|
-|[resize-observer-polyfill](https://www.npmjs.com/resize-observer-polyfill)|v1.5.1|06/22/23|Dognose |MIT|N/A|
-|[rollup-plugin-livereload](https://www.npmjs.com/rollup-plugin-livereload)|v2.0.5|03/19/24|Calypso Bot |MIT|N/A|
-|[rollup-plugin-postcss](https://www.npmjs.com/rollup-plugin-postcss)|v4.0.2|03/19/24|Calypso Bot |MIT|N/A|
-|[rollup-plugin-svelte](https://www.npmjs.com/rollup-plugin-svelte)|v7.1.0|03/19/24|Calypso Bot |MIT|N/A|
-|[sass-loader](https://www.npmjs.com/sass-loader)|v12.4.0|04/05/24|Calypso Bot |MIT|N/A|
-|[size-limit](https://www.npmjs.com/size-limit)|v8.2.6|07/13/23|Calypso Bot |MIT|N/A|
-|[sort-package-json](https://www.npmjs.com/sort-package-json)|v1.50.0|03/02/24|Calypso Bot |MIT|N/A|
-|[sprintf-js](https://www.npmjs.com/sprintf-js)|v1.1.2|01/28/22|Brad Jorsch |BSD-3-Clause|N/A|
-|[style-loader](https://www.npmjs.com/style-loader)|v2.0.0|04/05/24|Calypso Bot |MIT|N/A|
-|[swiper](https://www.npmjs.com/swiper)|v6.7.0|06/03/21|Brad Jorsch |MIT|N/A|
-|[terser-webpack-plugin](https://www.npmjs.com/terser-webpack-plugin)|v5.3.3|04/05/24|Calypso Bot |MIT|N/A|
-|[thread-loader](https://www.npmjs.com/thread-loader)|v3.0.4|02/03/23|Calypso Bot |MIT|N/A|
-|[tinycolor2](https://www.npmjs.com/tinycolor2)|v1.4.2|04/05/24|Jeremy Herve |MIT|N/A|
-|[tmp](https://www.npmjs.com/tmp)|v0.2.1|01/27/21|Brandon Kraft |MIT|N/A|
-|[ts-jest](https://www.npmjs.com/ts-jest)|v29.1.2|02/01/24|Calypso Bot |MIT|N/A|
-|[tslib](https://www.npmjs.com/tslib)|v2.5.0|01/17/24|thingalon |0BSD|N/A|
-|[turndown](https://www.npmjs.com/turndown)|v7.1.2|02/06/24|Calypso Bot |N/A|N/A|
-|[webpack-cli](https://www.npmjs.com/webpack-cli)|v4.9.1|05/18/23|Dylan Munson |MIT|N/A|
-|[winston](https://www.npmjs.com/winston)|v3.8.1|08/22/22|Adrian Moldovan |MIT|N/A|
-|[yargs](https://www.npmjs.com/yargs)|v17.6.2|02/01/23|Calypso Bot |MIT|N/A|
+|[semver](https://www.npmjs.com/semver)|v7.3.5|N/A|N/A |ISC|[CVE-2022-25883](https://github.com/advisories/GHSA-c2qf-rxjj-qqgw) (Moderate)|
+|[@babel/core](https://www.npmjs.com/@babel/core)|v7.24.0|N/A|N/A |MIT|N/A|
+|[@babel/plugin-syntax-jsx](https://www.npmjs.com/@babel/plugin-syntax-jsx)|v7.23.3|N/A|N/A |MIT|N/A|
+|[@babel/plugin-transform-react-jsx](https://www.npmjs.com/@babel/plugin-transform-react-jsx)|v7.23.4|N/A|N/A |MIT|N/A|
+|[@babel/plugin-transform-runtime](https://www.npmjs.com/@babel/plugin-transform-runtime)|v7.24.0|N/A|N/A |MIT|N/A|
+|[@babel/preset-env](https://www.npmjs.com/@babel/preset-env)|v7.24.0|N/A|N/A |MIT|N/A|
+|[@babel/preset-react](https://www.npmjs.com/@babel/preset-react)|v7.23.3|N/A|N/A |MIT|N/A|
+|[@babel/preset-typescript](https://www.npmjs.com/@babel/preset-typescript)|v7.23.3|N/A|N/A |MIT|N/A|
+|[@babel/runtime](https://www.npmjs.com/@babel/runtime)|v7.24.0|N/A|N/A |MIT|N/A|
+|[@octokit/rest](https://www.npmjs.com/@octokit/rest)|v20.1.0|N/A|N/A |MIT|N/A|
+|[@rollup/plugin-node-resolve](https://www.npmjs.com/@rollup/plugin-node-resolve)|v13.3.0|N/A|N/A |MIT|N/A|
+|[@sentry/browser](https://www.npmjs.com/@sentry/browser)|v7.80.1|N/A|N/A |MIT|N/A|
+|[@storybook/addon-a11y](https://www.npmjs.com/@storybook/addon-a11y)|v8.0.6|N/A|N/A |MIT|N/A|
+|[@storybook/addon-actions](https://www.npmjs.com/@storybook/addon-actions)|v8.0.6|N/A|N/A |MIT|N/A|
+|[@storybook/addon-docs](https://www.npmjs.com/@storybook/addon-docs)|v8.0.6|N/A|N/A |MIT|N/A|
+|[@storybook/addon-storysource](https://www.npmjs.com/@storybook/addon-storysource)|v8.0.6|N/A|N/A |MIT|N/A|
+|[@storybook/react](https://www.npmjs.com/@storybook/react)|v8.0.6|N/A|N/A |MIT|N/A|
+|[@storybook/theming](https://www.npmjs.com/@storybook/theming)|v8.0.6|N/A|N/A |MIT|N/A|
+|[@svgr/webpack](https://www.npmjs.com/@svgr/webpack)|v7.0.0|N/A|N/A |MIT|N/A|
+|[@testing-library/jest-dom](https://www.npmjs.com/@testing-library/jest-dom)|v6.4.2|N/A|N/A |MIT|N/A|
+|[@testing-library/react](https://www.npmjs.com/@testing-library/react)|v14.2.1|N/A|N/A |MIT|N/A|
+|[@types/jest](https://www.npmjs.com/@types/jest)|v29.5.12|N/A|N/A |MIT|N/A|
+|[@types/jquery](https://www.npmjs.com/@types/jquery)|v3.5.29|N/A|N/A |MIT|N/A|
+|[@types/node](https://www.npmjs.com/@types/node)|v20.4.2|N/A|N/A |MIT|N/A|
+|[@types/react](https://www.npmjs.com/@types/react)|v18.2.74|N/A|N/A |MIT|N/A|
+|[@types/react-dom](https://www.npmjs.com/@types/react-dom)|v18.2.24|N/A|N/A |MIT|N/A|
+|[@types/react-router-dom](https://www.npmjs.com/@types/react-router-dom)|v5.3.3|N/A|N/A |MIT|N/A|
+|[@types/react-test-renderer](https://www.npmjs.com/@types/react-test-renderer)|v18.0.7|N/A|N/A |MIT|N/A|
+|[@typescript-eslint/eslint-plugin](https://www.npmjs.com/@typescript-eslint/eslint-plugin)|v6.7.5|N/A|N/A |MIT|N/A|
+|[@typescript-eslint/parser](https://www.npmjs.com/@typescript-eslint/parser)|v6.7.5|N/A|N/A |BSD-2-Clause|N/A|
+|[babel-jest](https://www.npmjs.com/babel-jest)|v29.7.0|N/A|N/A |MIT|N/A|
+|[babel-loader](https://www.npmjs.com/babel-loader)|v9.1.2|N/A|N/A |MIT|N/A|
+|[babel-plugin-tester](https://www.npmjs.com/babel-plugin-tester)|v11.0.4|N/A|N/A |MIT|N/A|
+|[browserslist](https://www.npmjs.com/browserslist)|v4.17.6|N/A|N/A |MIT|N/A|
+|[chalk](https://www.npmjs.com/chalk)|v5.0.1|N/A|N/A |MIT|N/A|
+|[cheerio](https://www.npmjs.com/cheerio)|v1.0.0|N/A|N/A |MIT|N/A|
+|[chokidar](https://www.npmjs.com/chokidar)|v3.5.3|N/A|N/A |MIT|N/A|
+|[classnames](https://www.npmjs.com/classnames)|v2.3.2|N/A|N/A |MIT|N/A|
+|[clipboard](https://www.npmjs.com/clipboard)|v2.0.6|N/A|N/A |MIT|N/A|
+|[commander](https://www.npmjs.com/commander)|v9.3.0|N/A|N/A |MIT|N/A|
+|[compare-versions](https://www.npmjs.com/compare-versions)|v3.6.0|N/A|N/A |MIT|N/A|
+|[concurrently](https://www.npmjs.com/concurrently)|v7.6.0|N/A|N/A |MIT|N/A|
+|[config](https://www.npmjs.com/config)|v3.3.7|N/A|N/A |MIT|N/A|
+|[configstore](https://www.npmjs.com/configstore)|v5.0.1|N/A|N/A |BSD-2-Clause|N/A|
+|[cookie](https://www.npmjs.com/cookie)|v0.4.1|N/A|N/A |MIT|N/A|
+|[copy-webpack-plugin](https://www.npmjs.com/copy-webpack-plugin)|v11.0.0|N/A|N/A |MIT|N/A|
+|[core-js](https://www.npmjs.com/core-js)|v3.23.5|N/A|N/A |MIT|N/A|
+|[debug](https://www.npmjs.com/debug)|v4.3.4|N/A|N/A |MIT|N/A|
+|[diff](https://www.npmjs.com/diff)|v4.0.2|N/A|N/A |BSD-3-Clause|N/A|
+|[enquirer](https://www.npmjs.com/enquirer)|v2.4.1|N/A|N/A |MIT|N/A|
+|[eslint-config-prettier](https://www.npmjs.com/eslint-config-prettier)|v9.0.0|N/A|N/A |MIT|N/A|
+|[eslint-plugin-import](https://www.npmjs.com/eslint-plugin-import)|v2.28.1|N/A|N/A |MIT|N/A|
+|[eslint-plugin-jest](https://www.npmjs.com/eslint-plugin-jest)|v27.4.2|N/A|N/A |MIT|N/A|
+|[eslint-plugin-jsdoc](https://www.npmjs.com/eslint-plugin-jsdoc)|v46.8.2|N/A|N/A |BSD-3-Clause|N/A|
+|[eslint-plugin-jsx-a11y](https://www.npmjs.com/eslint-plugin-jsx-a11y)|v6.7.1|N/A|N/A |MIT|N/A|
+|[eslint-plugin-lodash](https://www.npmjs.com/eslint-plugin-lodash)|v7.4.0|N/A|N/A |MIT|N/A|
+|[eslint-plugin-prettier](https://www.npmjs.com/eslint-plugin-prettier)|v5.0.1|N/A|N/A |MIT|N/A|
+|[eslint-plugin-react](https://www.npmjs.com/eslint-plugin-react)|v7.33.2|N/A|N/A |MIT|N/A|
+|[eslint-plugin-react-hooks](https://www.npmjs.com/eslint-plugin-react-hooks)|v4.6.0|N/A|N/A |MIT|N/A|
+|[events](https://www.npmjs.com/events)|v3.3.0|N/A|N/A |MIT|N/A|
+|[execa](https://www.npmjs.com/execa)|v7.0.0|N/A|N/A |MIT|N/A|
+|[fancy-log](https://www.npmjs.com/fancy-log)|v1.3.3|N/A|N/A |MIT|N/A|
+|[filesize](https://www.npmjs.com/filesize)|v8.0.6|N/A|N/A |BSD-3-Clause|N/A|
+|[fork-ts-checker-webpack-plugin](https://www.npmjs.com/fork-ts-checker-webpack-plugin)|v9.0.2|N/A|N/A |MIT|N/A|
+|[fs-extra](https://www.npmjs.com/fs-extra)|v10.0.0|N/A|N/A |MIT|N/A|
+|[glob](https://www.npmjs.com/glob)|v7.1.6|N/A|N/A |ISC|N/A|
+|[history](https://www.npmjs.com/history)|v5.3.0|N/A|N/A |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v8.0.3|N/A|N/A |MIT|N/A|
+|[ignore](https://www.npmjs.com/ignore)|v5.1.8|N/A|N/A |MIT|N/A|
+|[intersection-observer](https://www.npmjs.com/intersection-observer)|v0.12.0|N/A|N/A |W3C-20150513|N/A|
+|[jest-environment-jsdom](https://www.npmjs.com/jest-environment-jsdom)|v29.7.0|N/A|N/A |MIT|N/A|
+|[jest-extended](https://www.npmjs.com/jest-extended)|v4.0.2|N/A|N/A |MIT|N/A|
+|[js-yaml](https://www.npmjs.com/js-yaml)|v4.1.0|N/A|N/A |MIT|N/A|
+|[listr](https://www.npmjs.com/listr)|v0.14.3|N/A|N/A |MIT|N/A|
+|[mapbox-gl](https://www.npmjs.com/mapbox-gl)|v1.13.0|N/A|N/A |ICU|N/A|
+|[markdown-it](https://www.npmjs.com/markdown-it)|v14.0.0|N/A|N/A |MIT|N/A|
+|[mime-types](https://www.npmjs.com/mime-types)|v2.1.35|N/A|N/A |MIT|N/A|
+|[mini-css-extract-plugin](https://www.npmjs.com/mini-css-extract-plugin)|v2.4.5|N/A|N/A |MIT|N/A|
+|[minimatch](https://www.npmjs.com/minimatch)|v5.1.0|N/A|N/A |ISC|N/A|
+|[moment](https://www.npmjs.com/moment)|v2.29.4|N/A|N/A |MIT|N/A|
+|[node-fetch](https://www.npmjs.com/node-fetch)|v2.6.7|N/A|N/A |MIT|N/A|
+|[p-limit](https://www.npmjs.com/p-limit)|v4.0.0|N/A|N/A |MIT|N/A|
+|[pluralize](https://www.npmjs.com/pluralize)|v8.0.0|N/A|N/A |MIT|N/A|
+|[postcss-custom-properties](https://www.npmjs.com/postcss-custom-properties)|v12.1.7|N/A|N/A |MIT|N/A|
+|[postcss-loader](https://www.npmjs.com/postcss-loader)|v6.2.0|N/A|N/A |MIT|N/A|
+|[process](https://www.npmjs.com/process)|v0.11.10|N/A|N/A |MIT|N/A|
+|[prop-types](https://www.npmjs.com/prop-types)|v15.7.2|N/A|N/A |MIT|N/A|
+|[react-dom](https://www.npmjs.com/react-dom)|v18.2.0|N/A|N/A |MIT|N/A|
+|[react-redux](https://www.npmjs.com/react-redux)|v7.2.8|N/A|N/A |MIT|N/A|
+|[react-router-dom](https://www.npmjs.com/react-router-dom)|v6.10.0|N/A|N/A |MIT|N/A|
+|[react-test-renderer](https://www.npmjs.com/react-test-renderer)|v18.2.0|N/A|N/A |MIT|N/A|
+|[react-transition-group](https://www.npmjs.com/react-transition-group)|v4.4.5|N/A|N/A |BSD-3-Clause|N/A|
+|[regenerator-runtime](https://www.npmjs.com/regenerator-runtime)|v0.13.9|N/A|N/A |MIT|N/A|
+|[remark-gfm](https://www.npmjs.com/remark-gfm)|v4.0.0|N/A|N/A |N/A|N/A|
+|[require-from-string](https://www.npmjs.com/require-from-string)|v2.0.2|N/A|N/A |MIT|N/A|
+|[resize-observer-polyfill](https://www.npmjs.com/resize-observer-polyfill)|v1.5.1|N/A|N/A |MIT|N/A|
+|[rollup-plugin-livereload](https://www.npmjs.com/rollup-plugin-livereload)|v2.0.5|N/A|N/A |MIT|N/A|
+|[rollup-plugin-postcss](https://www.npmjs.com/rollup-plugin-postcss)|v4.0.2|N/A|N/A |MIT|N/A|
+|[rollup-plugin-svelte](https://www.npmjs.com/rollup-plugin-svelte)|v7.1.0|N/A|N/A |MIT|N/A|
+|[sass-loader](https://www.npmjs.com/sass-loader)|v12.4.0|N/A|N/A |MIT|N/A|
+|[size-limit](https://www.npmjs.com/size-limit)|v8.2.6|N/A|N/A |MIT|N/A|
+|[sort-package-json](https://www.npmjs.com/sort-package-json)|v1.50.0|N/A|N/A |MIT|N/A|
+|[sprintf-js](https://www.npmjs.com/sprintf-js)|v1.1.2|N/A|N/A |BSD-3-Clause|N/A|
+|[style-loader](https://www.npmjs.com/style-loader)|v2.0.0|N/A|N/A |MIT|N/A|
+|[swiper](https://www.npmjs.com/swiper)|v6.7.0|N/A|N/A |MIT|N/A|
+|[terser-webpack-plugin](https://www.npmjs.com/terser-webpack-plugin)|v5.3.3|N/A|N/A |MIT|N/A|
+|[thread-loader](https://www.npmjs.com/thread-loader)|v3.0.4|N/A|N/A |MIT|N/A|
+|[tinycolor2](https://www.npmjs.com/tinycolor2)|v1.4.2|N/A|N/A |MIT|N/A|
+|[tmp](https://www.npmjs.com/tmp)|v0.2.1|N/A|N/A |MIT|N/A|
+|[ts-jest](https://www.npmjs.com/ts-jest)|v29.1.2|N/A|N/A |MIT|N/A|
+|[tslib](https://www.npmjs.com/tslib)|v2.5.0|N/A|N/A |0BSD|N/A|
+|[turndown](https://www.npmjs.com/turndown)|v7.1.2|N/A|N/A |N/A|N/A|
+|[webpack-cli](https://www.npmjs.com/webpack-cli)|v4.9.1|N/A|N/A |MIT|N/A|
+|[winston](https://www.npmjs.com/winston)|v3.8.1|N/A|N/A |MIT|N/A|
+|[yargs](https://www.npmjs.com/yargs)|v17.6.2|N/A|N/A |MIT|N/A|
 
 
 ## <img width='24' height='24' src='https://img.stackshare.io/package_manager/1778/default_90cb8b66e85ae5b95928b10bb076ab6a27c7e151.png'/> Packagist (23)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[antecedent/patchwork](https://packagist.org/antecedent/patchwork)|v2.1.28|03/14/24|Calypso Bot |N/A|N/A|
-|[automattic/woocommerce](https://packagist.org/automattic/woocommerce)|v3.1.0|03/01/24|Karen Attfield |N/A|N/A|
-|[brain/monkey](https://packagist.org/brain/monkey)|v2.6.1|11/18/21|renovate[bot] |N/A|N/A|
-|[codeception/codeception](https://packagist.org/codeception/codeception)|v5.1.2|12/01/23|tbradsha |N/A|N/A|
-|[composer/composer](https://packagist.org/composer/composer)|v2.0|03/26/24|Brad Jorsch |N/A|N/A|
-|[composer/semver](https://packagist.org/composer/semver)|v3.4.0|12/15/22|Calypso Bot |N/A|N/A|
-|[dealerdirect/phpcodesniffer-composer-installer](https://packagist.org/dealerdirect/phpcodesniffer-composer-installer)|v1.0.0|10/11/23|Calypso Bot |N/A|N/A|
-|[dompdf/dompdf](https://packagist.org/dompdf/dompdf)|v2.0.4|04/01/24|Calypso Bot |N/A|N/A|
-|[erusev/parsedown](https://packagist.org/erusev/parsedown)|v1.7.4|07/12/21|Brad Jorsch |N/A|N/A|
-|[johnkary/phpunit-speedtrap](https://packagist.org/johnkary/phpunit-speedtrap)|v4.0.1|11/21/23|Brad Jorsch |N/A|N/A|
-|[mediawiki/mediawiki-codesniffer](https://packagist.org/mediawiki/mediawiki-codesniffer)|v43.0.0|03/15/24|Calypso Bot |N/A|N/A|
-|[michelf/php-markdown](https://packagist.org/michelf/php-markdown)|v2.0|01/04/24|Igor Zinovyev |N/A|N/A|
-|[nikic/php-parser](https://packagist.org/nikic/php-parser)|v5.0.2|01/03/22|renovate[bot] |N/A|N/A|
-|[phan/phan](https://packagist.org/phan/phan)|v5.4.3|03/12/24|Brad Jorsch |N/A|N/A|
-|[php-mock/php-mock-phpunit](https://packagist.org/php-mock/php-mock-phpunit)|v2.10|03/05/24|Vishnu Gopal |N/A|N/A|
-|[phpcompatibility/phpcompatibility-wp](https://packagist.org/phpcompatibility/phpcompatibility-wp)|v2.1.4|09/14/23|Calypso Bot |N/A|N/A|
-|[sirbrillig/phpcs-variable-analysis](https://packagist.org/sirbrillig/phpcs-variable-analysis)|v2.11.17|09/14/23|Calypso Bot |N/A|N/A|
-|[squizlabs/php_codesniffer](https://packagist.org/squizlabs/php_codesniffer)|v3.8.1|10/11/23|Calypso Bot |N/A|N/A|
-|[symfony/console](https://packagist.org/symfony/console)|v7.0.4|11/21/23|Brad Jorsch |N/A|N/A|
-|[symfony/process](https://packagist.org/symfony/process)|v6.4.4|12/06/23|Calypso Bot |N/A|N/A|
-|[tedivm/jshrink](https://packagist.org/tedivm/jshrink)|v1.4.0|02/16/23|Peter Petrov |N/A|N/A|
-|[tubalmartin/cssmin](https://packagist.org/tubalmartin/cssmin)|v4.1.1|02/16/23|Peter Petrov |N/A|N/A|
-|[wp-coding-standards/wpcs](https://packagist.org/wp-coding-standards/wpcs)|v3.0.1|03/15/24|Calypso Bot |N/A|N/A|
+|[antecedent/patchwork](https://packagist.org/antecedent/patchwork)|v2.1.28|N/A|N/A |N/A|N/A|
+|[automattic/woocommerce](https://packagist.org/automattic/woocommerce)|v3.1.0|N/A|N/A |N/A|N/A|
+|[brain/monkey](https://packagist.org/brain/monkey)|v2.6.1|N/A|N/A |N/A|N/A|
+|[codeception/codeception](https://packagist.org/codeception/codeception)|v5.1.2|N/A|N/A |N/A|N/A|
+|[composer/composer](https://packagist.org/composer/composer)|v2.0|N/A|N/A |N/A|N/A|
+|[composer/semver](https://packagist.org/composer/semver)|v3.4.0|N/A|N/A |N/A|N/A|
+|[dealerdirect/phpcodesniffer-composer-installer](https://packagist.org/dealerdirect/phpcodesniffer-composer-installer)|v1.0.0|N/A|N/A |N/A|N/A|
+|[dompdf/dompdf](https://packagist.org/dompdf/dompdf)|v2.0.4|N/A|N/A |N/A|N/A|
+|[erusev/parsedown](https://packagist.org/erusev/parsedown)|v1.7.4|N/A|N/A |N/A|N/A|
+|[johnkary/phpunit-speedtrap](https://packagist.org/johnkary/phpunit-speedtrap)|v4.0.1|N/A|N/A |N/A|N/A|
+|[mediawiki/mediawiki-codesniffer](https://packagist.org/mediawiki/mediawiki-codesniffer)|v43.0.0|N/A|N/A |N/A|N/A|
+|[michelf/php-markdown](https://packagist.org/michelf/php-markdown)|v2.0|N/A|N/A |N/A|N/A|
+|[nikic/php-parser](https://packagist.org/nikic/php-parser)|v5.0.2|N/A|N/A |N/A|N/A|
+|[phan/phan](https://packagist.org/phan/phan)|v5.4.3|N/A|N/A |N/A|N/A|
+|[php-mock/php-mock-phpunit](https://packagist.org/php-mock/php-mock-phpunit)|v2.10|N/A|N/A |N/A|N/A|
+|[phpcompatibility/phpcompatibility-wp](https://packagist.org/phpcompatibility/phpcompatibility-wp)|v2.1.4|N/A|N/A |N/A|N/A|
+|[sirbrillig/phpcs-variable-analysis](https://packagist.org/sirbrillig/phpcs-variable-analysis)|v2.11.17|N/A|N/A |N/A|N/A|
+|[squizlabs/php_codesniffer](https://packagist.org/squizlabs/php_codesniffer)|v3.8.1|N/A|N/A |N/A|N/A|
+|[symfony/console](https://packagist.org/symfony/console)|v7.0.4|N/A|N/A |N/A|N/A|
+|[symfony/process](https://packagist.org/symfony/process)|v6.4.4|N/A|N/A |N/A|N/A|
+|[tedivm/jshrink](https://packagist.org/tedivm/jshrink)|v1.4.0|N/A|N/A |N/A|N/A|
+|[tubalmartin/cssmin](https://packagist.org/tubalmartin/cssmin)|v4.1.1|N/A|N/A |N/A|N/A|
+|[wp-coding-standards/wpcs](https://packagist.org/wp-coding-standards/wpcs)|v3.0.1|N/A|N/A |N/A|N/A|
 
 <br/>
 <div align='center'>
