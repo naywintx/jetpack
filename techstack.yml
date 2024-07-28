@@ -1,0 +1,2333 @@
+repo_name: naywintx/jetpack
+report_id: caef2ad9c6c8b51a8869ef70aae841a5
+version: 0.1
+repo_type: Public
+timestamp: '2024-05-21T03:33:38+00:00'
+requested_by: matticbot
+provider: github
+branch: trunk
+detected_tools_count: 201
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/naywintx/jetpack
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/naywintx/jetpack
+  detection_source: Repo Metadata
+- name: Mustache
+  description: Logic-less templates
+  website_url: http://mustache.github.io/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/1142/197655.png
+  detection_source_url: https://github.com/naywintx/jetpack
+  detection_source: Repo Metadata
+- name: PHP
+  description: A popular general-purpose scripting language that is especially suited
+    to web development
+  website_url: http://www.php.net/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
+  detection_source_url: https://github.com/naywintx/jetpack
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/packages/forms/package.json
+  detection_source: projects/packages/forms/package.json
+- name: SQL
+  description: It is a domain-specific language used in programming
+  website_url: https://en.wikipedia.org/wiki/SQL
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/plugins/crm/tests/codeception/_data/55853.sql
+  detection_source: projects/plugins/crm/tests/codeception/_data/55853.sql
+- name: Smarty
+  description: Template engine for PHP
+  website_url: http://www.smarty.net/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/3693/smarty.png
+  detection_source_url: https://github.com/naywintx/jetpack
+  detection_source: Repo Metadata
+- name: Swift
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
+  website_url: https://developer.apple.com/swift/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/packages/forms/package.json
+  detection_source: projects/packages/forms/package.json
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/naywintx/jetpack
+  detection_source: Repo Metadata
+- name: YAML
+  description: A straightforward machine parsable data serialization format designed
+    for human readability and interaction
+  website_url: http://www.yaml.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1744/yaml.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/tools/js-tools/package.json
+  detection_source: tools/js-tools/package.json
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/eslint-config-target-es/package.json
+  detection_source: projects/js-packages/eslint-config-target-es/package.json
+- name: Autoprefixer
+  description: PostCSS plugin to parse CSS and add vendor prefixes to CSS rules
+  website_url: https://github.com/postcss/autoprefixer
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/packages/forms/package.json
+  detection_source: projects/packages/forms/package.json
+- name: Chart.js
+  description: Simple, clean and engaging charts for designers and developers
+  website_url: http://www.chartjs.org/
+  version: 3.7.1
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/3866/_GD1-XrU_400x400.jpg
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/packages/wordads/package.json
+  detection_source: projects/packages/wordads/package.json
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  version: 20.8.1
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/.nvmrc
+  detection_source: Repo Metadata
+- name: Photon
+  description: Framework for Electron apps
+  website_url: http://photonkit.com/
+  version: 4.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Cross-Platform Desktop Development
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/packages/search/package.json
+  detection_source: projects/packages/search/package.json
+- name: PostCSS
+  description: Transform CSS with JS plugins
+  website_url: https://github.com/postcss/postcss
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/3339/rlFcjEdI.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/image-guide/package.json
+  detection_source: projects/js-packages/image-guide/package.json
+- name: Preact
+  description: Fast 3kb alternative to React with the same ES6 API
+  website_url: http://developit.github.io/preact/
+  version: 10.13.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/4388/preact.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/packages/jetpack-mu-wpcom/package.json
+  detection_source: projects/packages/jetpack-mu-wpcom/package.json
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 18.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/ai-client/package.json
+  detection_source: projects/js-packages/ai-client/package.json
+- name: React Router
+  description: A complete routing solution for React.js
+  website_url: https://github.com/rackt/react-router
+  version: 6.10.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/3350/8261421.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/packages/forms/package.json
+  detection_source: projects/packages/forms/package.json
+- name: Redux
+  description: Predictable state container for JavaScript apps
+  website_url: https://redux.js.org/
+  version: 4.0.5
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: State Management Library
+  image_url: https://img.stackshare.io/service/4074/13142323.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/packages/forms/package.json
+  detection_source: projects/packages/forms/package.json
+- name: Sass
+  description: Syntactically Awesome Style Sheets
+  website_url: http://sass-lang.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/image-guide/package.json
+  detection_source: projects/js-packages/image-guide/package.json
+- name: Storybook
+  description: Build bulletproof UI components faster
+  website_url: https://storybook.js.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/9240/sOct-Txm_400x400.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/ai-client/package.json
+  detection_source: projects/js-packages/ai-client/package.json
+- name: Svelte
+  description: A UI framework that compiles into tiny standalone JavaScript modules
+  website_url: https://svelte.technology/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/6113/7exmJEg4_400x400.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/image-guide/package.json
+  detection_source: projects/js-packages/image-guide/package.json
+- name: Symfony
+  description: A PHP full-stack web framework
+  website_url: http://symfony.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1197/logosf_positif_03_icon.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/packages/changelogger/composer.json
+  detection_source: projects/packages/changelogger/composer.json
+- name: css-loader
+  description: Helps webpack to collect CSS from all the css files
+  website_url: https://github.com/webpack-contrib/css-loader
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/storybook/package.json
+  detection_source: projects/js-packages/storybook/package.json
+- name: jQuery
+  description: The Write Less, Do More, JavaScript Library.
+  website_url: http://jquery.com/
+  version: 3.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/packages/forms/package.json
+  detection_source: projects/packages/forms/package.json
+- name: redux-thunk
+  description: Thunk middleware for Redux
+  website_url: https://github.com/gaearon/redux-thunk
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: State Management Library
+  image_url: https://img.stackshare.io/service/5448/13142323.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/packages/forms/package.json
+  detection_source: projects/packages/forms/package.json
+- name: MySQL
+  description: The world's most popular open source database
+  website_url: http://www.mysql.com
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1025/logo-mysql-170x170.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/plugins/super-cache/tests/e2e/docker-compose.yml
+  detection_source: projects/plugins/super-cache/tests/e2e/docker-compose.yml
+- name: Babel
+  description: Use next generation JavaScript, today.
+  website_url: http://babeljs.io/
+  version: 7.24.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JavaScript Compilers
+  image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/babel-plugin-replace-textdomain/package.json
+  detection_source: projects/js-packages/babel-plugin-replace-textdomain/package.json
+- name: Codeception
+  description: Elegant and Efficient Testing for PHP
+  website_url: http://codeception.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/2301/fQkiPzLo_400x400.jpg
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/plugins/crm/composer.json
+  detection_source: projects/plugins/crm/composer.json
+- name: Composer
+  description: Dependency Manager for PHP
+  website_url: https://getcomposer.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/1688/New_Project__65_.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/tools/docker/Dockerfile
+  detection_source: tools/docker/Dockerfile
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/naywintx/jetpack
+  detection_source: Repo Metadata
+- name: Docker Compose
+  description: Define and run multi-container applications with Docker
+  website_url: https://github.com/docker/compose
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Container Tools
+  image_url: https://img.stackshare.io/service/3136/docker-compose.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/tools/docker/docker-compose.yml
+  detection_source: tools/docker/docker-compose.yml
+- name: Dotenv
+  description: Loads environment variables from .env for Nodejs projects
+  website_url: https://github.com/motdotla/dotenv
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Server Configuration and Automation
+  image_url: https://img.stackshare.io/service/8067/default_90dcb1286af7685c68df319c764b80704df1155b.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/plugins/super-cache/tests/e2e/package.json
+  detection_source: projects/plugins/super-cache/tests/e2e/package.json
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/package.json
+  detection_source: package.json
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/naywintx/jetpack
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/.github/workflows/autotagger.yml
+  detection_source: ".github/workflows/autotagger.yml"
+- name: Jest
+  description: Painless JavaScript Unit Testing
+  website_url: http://facebook.github.io/jest/
+  version: 29.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/830/jest.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/github-actions/test-results-to-slack/package.json
+  detection_source: projects/github-actions/test-results-to-slack/package.json
+- name: LiveReload
+  description: CSS edits and image changes apply live. CoffeeScript, SASS, LESS and
+    others just work.
+  website_url: http://livereload.com
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Live Reloading
+  image_url: https://img.stackshare.io/service/2601/128.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/plugins/boost/package.json
+  detection_source: projects/plugins/boost/package.json
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/eslint-config-target-es/package.json
+  detection_source: projects/js-packages/eslint-config-target-es/package.json
+- name: Octokit
+  description: GitHub API Client Library for .NET
+  website_url: https://github.com/octokit/octokit.net
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Tools for GitHub
+  image_url: https://img.stackshare.io/service/9827/octokit-dotnet_2.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/tools/cli/package.json
+  detection_source: tools/cli/package.json
+- name: Prettier
+  description: Prettier is an opinionated code formatter.
+  website_url: https://prettier.io/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/packages/search/package.json
+  detection_source: projects/packages/search/package.json
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/packages/forms/package.json
+  detection_source: projects/packages/forms/package.json
+- name: Sentry
+  description: See performance issues, fix errors faster, and optimize code health.
+  website_url: https://sentry.io/welcome/?utm_source=stackshare&utm_medium=link&utm_campaign=profile
+  open_source: true
+  hosted_saas: true
+  category: Monitoring
+  sub_category: Exception Monitoring
+  image_url: https://img.stackshare.io/service/191/default_9262326592c97828a2a4299dec085a3674dd05f4.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/packages/jetpack-mu-wpcom/package.json
+  detection_source: projects/packages/jetpack-mu-wpcom/package.json
+- name: Webpack
+  description: A bundler for javascript and friends
+  website_url: http://webpack.js.org
+  version: 5.76.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/boost-score-api/package.json
+  detection_source: projects/js-packages/boost-score-api/package.json
+- name: jsdom
+  description: A JavaScript implementation of the WHATWG DOM and HTML standards, for
+    use with node.js
+  website_url: https://github.com/jsdom/jsdom
+  version: 20.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Headless Browsers
+  image_url: https://img.stackshare.io/service/7054/preview.jpeg
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/plugins/jetpack/package.json
+  detection_source: projects/plugins/jetpack/package.json
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/tools/js-tools/package.json
+  detection_source: tools/js-tools/package.json
+- name: rollup
+  description: The next-generation JavaScript module bundler
+  website_url: http://rollupjs.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/image-guide/package.json
+  detection_source: projects/js-packages/image-guide/package.json
+- name: HTML to Wordpress
+  description: Cloud-based tool that converts your current HTML based website into
+    a Wordpress theme
+  website_url: http://htmltowordpress.io
+  open_source: false
+  hosted_saas: true
+  category: Support, Sales, and Marketing
+  sub_category: CMS Tools
+  image_url: https://img.stackshare.io/service/4081/Tla1Uq2w.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/plugins/super-cache/tests/e2e/Dockerfile
+  detection_source: projects/plugins/super-cache/tests/e2e/Dockerfile
+- name: Mapbox
+  description: Design and publish beautiful maps
+  website_url: https://www.mapbox.com/
+  open_source: true
+  hosted_saas: true
+  category: Application Utilities
+  sub_category: Mapping APIs
+  image_url: https://img.stackshare.io/service/1640/cvosutVr_400x400.jpg
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/plugins/jetpack/package.json
+  detection_source: projects/plugins/jetpack/package.json
+- name: CocoaPods
+  description: A dependency manager for Swift and Objective-C Cocoa projects
+  website_url: https://cocoapods.org/
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: CocoaPods Packages
+  image_url: https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/packages/forms/package.json
+  detection_source: projects/packages/forms/package.json
+- name: Context.IO
+  description: A REST email API that makes it easy and fast to integrate your user's
+    email data in your application.
+  website_url: http://context.io
+  open_source: false
+  hosted_saas: false
+  category: Communications
+  sub_category: Email API
+  image_url: https://img.stackshare.io/service/240/mPMj_ee5.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/plugins/jetpack/composer.json
+  detection_source: projects/plugins/jetpack/composer.json
+- name: Lodash
+  description: A JavaScript utility library
+  website_url: https://lodash.com
+  version: 4.17.21
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/2438/lodash.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/shared-extension-utils/package.json
+  detection_source: projects/js-packages/shared-extension-utils/package.json
+- name: Moment.js
+  description: A JavaScript date library for parsing, validating, manipulating, and
+    formatting dates
+  website_url: http://momentjs.com/
+  version: 2.29.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/3643/Xrtdc94q_400x400.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/github-actions/repo-gardening/package.json
+  detection_source: projects/github-actions/repo-gardening/package.json
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/naywintx/jetpack
+  detection_source: Repo Metadata
+- name: Ubuntu
+  description: The leading OS for PC, tablet, phone and cloud
+  website_url: http://www.ubuntu.com/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/3511/cof_orange_hex.jpg
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/tools/docker/Dockerfile
+  detection_source: tools/docker/Dockerfile
+- name: Winston
+  description: a multi-transport async logging library for node.js
+  website_url: https://github.com/winstonjs/winston
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/6668/9682013.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/tools/e2e-commons/package.json
+  detection_source: tools/e2e-commons/package.json
+- name: WordPress
+  description: A semantic personal publishing platform with a focus on aesthetics,
+    web standards, and usability.
+  website_url: http://wordpress.org
+  version: 6.4.3
+  open_source: true
+  hosted_saas: false
+  category: Support, Sales, and Marketing
+  sub_category: Self-Hosted Blogging / CMS
+  image_url: https://img.stackshare.io/service/250/logo.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/plugins/automattic-for-agencies-client/composer.lock
+  detection_source: projects/plugins/jetpack/package.json
+- name: Zod
+  description: TypeScript-first schema validation
+  website_url: https://zod.dev/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/48521/default_eea961e4c374e68a1c7eb5bbc9e4a39920890342.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/boost-score-api/package.json
+  detection_source: projects/js-packages/boost-score-api/package.json
+- name: axios
+  description: Promise based HTTP client for the browser and node.js
+  website_url: https://github.com/mzabriskie/axios
+  version: 1.6.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/plugins/super-cache/tests/e2e/package.json
+  detection_source: projects/plugins/super-cache/tests/e2e/package.json
+- name: browserslist
+  website_url: https://github.com/ai/browserslist
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/6650/19343.jpeg
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/eslint-config-target-es/package.json
+  detection_source: projects/js-packages/eslint-config-target-es/package.json
+- name: chalk
+  description: terminal colors
+  website_url: https://github.com/chalk/chalk
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8072/13122722.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/eslint-changed/package.json
+  detection_source: projects/js-packages/eslint-changed/package.json
+- name: husky
+  website_url: https://github.com/typicode/husky
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/9527/5502029.jpeg
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/package.json
+  detection_source: package.json
+- name: semver
+  description: The semantic version parser used by npm
+  package_url: https://www.npmjs.com/semver
+  version: 7.3.5
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18809/default_dad3dc9dde4b82dc2a7bd32aa091165887abe57b.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/eslint-config-target-es/package.json
+  detection_source: projects/js-packages/eslint-config-target-es/package.json
+  vulnerabilities:
+  - name: semver vulnerable to Regular Expression Denial of Service
+    cve_id: CVE-2022-25883
+    cve_url: https://github.com/advisories/GHSA-c2qf-rxjj-qqgw
+    detected_date: Jun 23
+    severity: moderate
+    first_patched: 7.5.2
+- name: "@babel/core"
+  description: Babel compiler core
+  package_url: https://www.npmjs.com/@babel/core
+  version: 7.24.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15810/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/babel-plugin-replace-textdomain/package.json
+  detection_source: projects/js-packages/babel-plugin-replace-textdomain/package.json
+- name: "@babel/plugin-syntax-jsx"
+  description: Allow parsing of jsx
+  package_url: https://www.npmjs.com/@babel/plugin-syntax-jsx
+  version: 7.23.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17129/default_37d9ccc57ae4d32e7ff46614e4f8bb2c4ddc7964.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/storybook/package.json
+  detection_source: projects/js-packages/storybook/package.json
+- name: "@babel/plugin-transform-react-jsx"
+  description: Turn JSX into React function calls
+  package_url: https://www.npmjs.com/@babel/plugin-transform-react-jsx
+  version: 7.23.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16556/default_50be6a65e5f7390c20dda2f19371abc1271db012.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/licensing/package.json
+  detection_source: projects/js-packages/licensing/package.json
+- name: "@babel/plugin-transform-runtime"
+  description: Externalise references to helpers and builtins
+  package_url: https://www.npmjs.com/@babel/plugin-transform-runtime
+  version: 7.24.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15952/default_4040fefea2f98006727f63d042275b96a275ab2d.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/webpack-config/package.json
+  detection_source: projects/js-packages/webpack-config/package.json
+- name: "@babel/preset-env"
+  description: A Babel preset for each environment
+  package_url: https://www.npmjs.com/@babel/preset-env
+  version: 7.24.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15819/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/image-guide/package.json
+  detection_source: projects/js-packages/image-guide/package.json
+- name: "@babel/preset-react"
+  description: Babel preset for all React plugins
+  package_url: https://www.npmjs.com/@babel/preset-react
+  version: 7.23.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15890/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/components/package.json
+  detection_source: projects/js-packages/components/package.json
+- name: "@babel/preset-typescript"
+  description: Babel preset for TypeScript
+  package_url: https://www.npmjs.com/@babel/preset-typescript
+  version: 7.23.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16084/default_d4e765f8a43dcfd232c8b9ee9732058bc27c727a.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/image-guide/package.json
+  detection_source: projects/js-packages/image-guide/package.json
+- name: "@babel/runtime"
+  description: Babel's modular runtime helpers
+  package_url: https://www.npmjs.com/@babel/runtime
+  version: 7.24.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15934/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/publicize-components/package.json
+  detection_source: projects/js-packages/components/package.json
+- name: "@octokit/rest"
+  description: GitHub REST API client for Node.js
+  package_url: https://www.npmjs.com/@octokit/rest
+  version: 20.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16999/default_43f23668e39c9b3381720c9c76540776b8a49167.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/tools/cli/package.json
+  detection_source: tools/cli/package.json
+- name: "@rollup/plugin-node-resolve"
+  description: Locate and bundle third-party dependencies in node_modules
+  package_url: https://www.npmjs.com/@rollup/plugin-node-resolve
+  version: 13.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17836/default_abcc2eea82e62d338a749f334647866df76198b8.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/image-guide/package.json
+  detection_source: projects/js-packages/image-guide/package.json
+- name: "@sentry/browser"
+  description: Official Sentry SDK for browsers
+  package_url: https://www.npmjs.com/@sentry/browser
+  version: 7.80.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18385/default_3918a37cf2f76449e061a2c79fb02113faa1391a.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/packages/jetpack-mu-wpcom/package.json
+  detection_source: projects/packages/jetpack-mu-wpcom/package.json
+- name: "@storybook/addon-a11y"
+  description: A11y addon for storybook
+  package_url: https://www.npmjs.com/@storybook/addon-a11y
+  version: 8.0.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17117/default_9746cbb559e39df4afd8298f9a252dff8519e646.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/storybook/package.json
+  detection_source: projects/js-packages/storybook/package.json
+- name: "@storybook/addon-actions"
+  description: Action Logger addon for storybook
+  package_url: https://www.npmjs.com/@storybook/addon-actions
+  version: 8.0.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16126/default_73326c44fbfa7369fd17573edb113e5d849468bc.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/ai-client/package.json
+  detection_source: projects/js-packages/ai-client/package.json
+- name: "@storybook/addon-docs"
+  description: Superior documentation for your components
+  package_url: https://www.npmjs.com/@storybook/addon-docs
+  version: 8.0.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17835/default_abcc2eea82e62d338a749f334647866df76198b8.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/storybook/package.json
+  detection_source: projects/js-packages/storybook/package.json
+- name: "@storybook/addon-storysource"
+  description: Stories addon for storybook
+  package_url: https://www.npmjs.com/@storybook/addon-storysource
+  version: 8.0.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16977/default_3823aba25646a3f105cc15ee9df24fdf78972314.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/storybook/package.json
+  detection_source: projects/js-packages/storybook/package.json
+- name: "@storybook/react"
+  description: 'Storybook for React: Develop React Component in isolation with Hot
+    Reloading'
+  package_url: https://www.npmjs.com/@storybook/react
+  version: 8.0.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16042/default_72d4237e6719b7d75d0307bf8b5718584fdc3425.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/ai-client/package.json
+  detection_source: projects/js-packages/ai-client/package.json
+- name: "@storybook/theming"
+  description: Core Storybook Components
+  package_url: https://www.npmjs.com/@storybook/theming
+  version: 8.0.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17754/default_8cfeb169319d5cc646c1e13f8a10e7d7e7430d7c.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/storybook/package.json
+  detection_source: projects/js-packages/storybook/package.json
+- name: "@svgr/webpack"
+  description: SVGR webpack loader
+  package_url: https://www.npmjs.com/@svgr/webpack
+  version: 7.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16411/default_aa91da3cee4d961f0eea8ca5de77f399ec7ec794.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/plugins/jetpack/package.json
+  detection_source: projects/plugins/jetpack/package.json
+- name: "@testing-library/jest-dom"
+  description: Custom jest matchers to test the state of the DOM
+  package_url: https://www.npmjs.com/@testing-library/jest-dom
+  version: 6.4.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17424/default_1cdcda15ebb7caed879f8340bc212b44c4ec9dac.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/tools/js-tools/package.json
+  detection_source: tools/js-tools/package.json
+- name: "@testing-library/react"
+  description: Simple and complete React DOM testing utilities that encourage good
+    testing practices
+  package_url: https://www.npmjs.com/@testing-library/react
+  version: 14.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16549/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/components/package.json
+  detection_source: projects/js-packages/components/package.json
+- name: "@types/jest"
+  description: TypeScript definitions for Jest
+  package_url: https://www.npmjs.com/@types/jest
+  version: 29.5.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15840/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/components/package.json
+  detection_source: projects/js-packages/components/package.json
+- name: "@types/jquery"
+  description: TypeScript definitions for jQuery
+  package_url: https://www.npmjs.com/@types/jquery
+  version: 3.5.29
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16363/default_97104dc50154593d2dde1d791400955934c9c715.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/plugins/boost/package.json
+  detection_source: projects/plugins/boost/package.json
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 20.4.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/packages/jetpack-mu-wpcom/package.json
+  detection_source: projects/packages/jetpack-mu-wpcom/package.json
+- name: "@types/react"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react
+  version: 18.2.74
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15894/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/ai-client/package.json
+  detection_source: projects/js-packages/ai-client/package.json
+- name: "@types/react-dom"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react-dom
+  version: 18.2.24
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15946/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/components/package.json
+  detection_source: projects/js-packages/components/package.json
+- name: "@types/react-router-dom"
+  description: TypeScript definitions for React Router
+  package_url: https://www.npmjs.com/@types/react-router-dom
+  version: 5.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16557/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/plugins/boost/package.json
+  detection_source: projects/plugins/boost/package.json
+- name: "@types/react-test-renderer"
+  description: TypeScript definitions for react-test-renderer
+  package_url: https://www.npmjs.com/@types/react-test-renderer
+  version: 18.0.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16593/default_ebd83b4f0415be108d977ea72558b13fd7c5283d.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/components/package.json
+  detection_source: projects/js-packages/components/package.json
+- name: "@typescript-eslint/eslint-plugin"
+  description: TypeScript plugin for ESLint
+  package_url: https://www.npmjs.com/@typescript-eslint/eslint-plugin
+  version: 6.7.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/tools/js-tools/package.json
+  detection_source: tools/js-tools/package.json
+- name: "@typescript-eslint/parser"
+  description: An ESLint custom parser which leverages TypeScript ESTree
+  package_url: https://www.npmjs.com/@typescript-eslint/parser
+  version: 6.7.5
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/boost-score-api/package.json
+  detection_source: projects/js-packages/boost-score-api/package.json
+- name: babel-jest
+  description: Jest plugin to use babel for transformation
+  package_url: https://www.npmjs.com/babel-jest
+  version: 29.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15839/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/licensing/package.json
+  detection_source: projects/js-packages/licensing/package.json
+- name: babel-loader
+  description: Babel module loader for webpack
+  package_url: https://www.npmjs.com/babel-loader
+  version: 9.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15800/default_4acafe585186b4157fa23322ae7ca89e24b5cdef.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/storybook/package.json
+  detection_source: projects/js-packages/storybook/package.json
+- name: babel-plugin-tester
+  description: Utilities for testing babel plugins
+  package_url: https://www.npmjs.com/babel-plugin-tester
+  version: 11.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18086/image.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/babel-plugin-replace-textdomain/package.json
+  detection_source: projects/js-packages/babel-plugin-replace-textdomain/package.json
+- name: browserslist
+  description: Share target browsers between different front-end tools
+  package_url: https://www.npmjs.com/browserslist
+  version: 4.17.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17198/default_eb6674f470fe213f950fd09d858ebb0f6b6e3dda.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/eslint-config-target-es/package.json
+  detection_source: projects/js-packages/eslint-config-target-es/package.json
+- name: chalk
+  description: Terminal string styling done right
+  package_url: https://www.npmjs.com/chalk
+  version: 5.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15813/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/eslint-changed/package.json
+  detection_source: projects/js-packages/eslint-changed/package.json
+- name: cheerio
+  description: Fast, flexible, and lean implementation of core jQuery
+  package_url: https://www.npmjs.com/cheerio
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15949/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/plugins/super-cache/tests/e2e/package.json
+  detection_source: projects/plugins/super-cache/tests/e2e/package.json
+- name: chokidar
+  description: A neat wrapper around node.js fs.watch / fs.watchFile / fsevents
+  package_url: https://www.npmjs.com/chokidar
+  version: 3.5.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16043/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/tools/cli/package.json
+  detection_source: tools/cli/package.json
+- name: classnames
+  description: A simple utility for conditionally joining classNames together
+  package_url: https://www.npmjs.com/classnames
+  version: 2.3.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15942/default_4040fefea2f98006727f63d042275b96a275ab2d.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/ai-client/package.json
+  detection_source: projects/js-packages/ai-client/package.json
+- name: clipboard
+  description: Modern copy to clipboard. No Flash. Just 2kb
+  package_url: https://www.npmjs.com/clipboard
+  version: 2.0.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16838/default_5c6919c5e02b8e6c83f3a2b23db5b6962e3caca0.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/plugins/jetpack/package.json
+  detection_source: projects/plugins/jetpack/package.json
+- name: commander
+  description: The complete solution for node.js command-line programs
+  package_url: https://www.npmjs.com/commander
+  version: 9.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15829/default_50135978d26eba7c09093ceb23b96d522898e4eb.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/eslint-changed/package.json
+  detection_source: projects/js-packages/eslint-changed/package.json
+- name: compare-versions
+  description: Compare semver version strings to find greater
+  package_url: https://www.npmjs.com/compare-versions
+  version: 3.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18084/image.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/github-actions/repo-gardening/package.json
+  detection_source: projects/github-actions/repo-gardening/package.json
+- name: concurrently
+  description: Run commands concurrently
+  package_url: https://www.npmjs.com/concurrently
+  version: 7.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16041/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/packages/backup/package.json
+  detection_source: projects/packages/backup/package.json
+- name: config
+  description: Configuration control for production node deployments
+  package_url: https://www.npmjs.com/config
+  version: 3.3.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16353/default_b5c8f3c8e46d368f74a982d06d7f13291fe651ea.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/plugins/automattic-for-agencies-client/tests/e2e/package.json
+  detection_source: projects/plugins/automattic-for-agencies-client/tests/e2e/package.json
+- name: configstore
+  description: Easily load and save config without having to think about where and
+    how
+  package_url: https://www.npmjs.com/configstore
+  version: 5.0.1
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16988/default_32f63a11ae9faad5eff3053ff1a1600fde8a525b.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/tools/cli/package.json
+  detection_source: tools/cli/package.json
+- name: cookie
+  description: HTTP server cookie parsing and serialization
+  package_url: https://www.npmjs.com/cookie
+  version: 0.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16660/default_e654289254bcb9b55e3dca992739e962dc0c7297.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/plugins/jetpack/package.json
+  detection_source: projects/plugins/jetpack/package.json
+- name: copy-webpack-plugin
+  description: Copy files &amp;&amp; directories with webpack
+  package_url: https://www.npmjs.com/copy-webpack-plugin
+  version: 11.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15941/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/packages/forms/package.json
+  detection_source: projects/packages/forms/package.json
+- name: core-js
+  description: Standard library
+  package_url: https://www.npmjs.com/core-js
+  version: 3.23.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15869/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/packages/action-bar/package.json
+  detection_source: projects/packages/action-bar/package.json
+- name: debug
+  description: Small debugging utility
+  package_url: https://www.npmjs.com/debug
+  version: 4.3.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15852/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/ai-client/package.json
+  detection_source: projects/js-packages/ai-client/package.json
+- name: diff
+  description: A javascript text diff implementation
+  package_url: https://www.npmjs.com/diff
+  version: 4.0.2
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16509/default_0a704f5fac0bffcf529c9a61658d0b9ddbf7504e.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/plugins/protect/package.json
+  detection_source: projects/plugins/protect/package.json
+- name: enquirer
+  description: Stylish, intuitive and user-friendly prompt system
+  package_url: https://www.npmjs.com/enquirer
+  version: 2.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17607/default_78eeaf18342bdd59207e3ddbe161d5d7c0391a23.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/tools/cli/package.json
+  detection_source: tools/cli/package.json
+- name: eslint-config-prettier
+  description: Turns off all rules that are unnecessary or might conflict with Prettier
+  package_url: https://www.npmjs.com/eslint-config-prettier
+  version: 9.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/tools/js-tools/package.json
+  detection_source: tools/js-tools/package.json
+- name: eslint-plugin-import
+  description: Import with sanity
+  package_url: https://www.npmjs.com/eslint-plugin-import
+  version: 2.28.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/tools/js-tools/package.json
+  detection_source: tools/js-tools/package.json
+- name: eslint-plugin-jest
+  description: Eslint rules for Jest
+  package_url: https://www.npmjs.com/eslint-plugin-jest
+  version: 27.4.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15996/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/tools/js-tools/package.json
+  detection_source: tools/js-tools/package.json
+- name: eslint-plugin-jsdoc
+  description: JSDoc linting rules for ESLint
+  package_url: https://www.npmjs.com/eslint-plugin-jsdoc
+  version: 46.8.2
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16672/default_783b9b6c17b863f264c1418b0eb831316f741afd.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/tools/js-tools/package.json
+  detection_source: tools/js-tools/package.json
+- name: eslint-plugin-jsx-a11y
+  description: Static AST checker for accessibility rules on JSX elements
+  package_url: https://www.npmjs.com/eslint-plugin-jsx-a11y
+  version: 6.7.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15845/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/tools/js-tools/package.json
+  detection_source: tools/js-tools/package.json
+- name: eslint-plugin-lodash
+  description: Lodash specific linting rules for ESLint
+  package_url: https://www.npmjs.com/eslint-plugin-lodash
+  version: 7.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17604/default_98adc81594c50d81f495d8c0ddd357e31c4f0a3e.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/tools/js-tools/package.json
+  detection_source: tools/js-tools/package.json
+- name: eslint-plugin-prettier
+  description: Runs prettier as an eslint rule
+  package_url: https://www.npmjs.com/eslint-plugin-prettier
+  version: 5.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15896/default_6e6e1d6bb189c8bb26c6410618bd597979578f39.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/tools/js-tools/package.json
+  detection_source: tools/js-tools/package.json
+- name: eslint-plugin-react
+  description: React specific linting rules for ESLint
+  package_url: https://www.npmjs.com/eslint-plugin-react
+  version: 7.33.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15817/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/tools/js-tools/package.json
+  detection_source: tools/js-tools/package.json
+- name: eslint-plugin-react-hooks
+  description: ESLint rules for React Hooks
+  package_url: https://www.npmjs.com/eslint-plugin-react-hooks
+  version: 4.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16149/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/tools/js-tools/package.json
+  detection_source: tools/js-tools/package.json
+- name: events
+  description: Node's event emitter for all engines
+  package_url: https://www.npmjs.com/events
+  version: 3.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16435/default_aa91da3cee4d961f0eea8ca5de77f399ec7ec794.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/plugins/jetpack/package.json
+  detection_source: projects/plugins/jetpack/package.json
+- name: execa
+  description: Process execution for humans
+  package_url: https://www.npmjs.com/execa
+  version: 7.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16132/default_3d197518f6bb529bfcc1b685e2cefbdfe83ff108.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/tools/cli/package.json
+  detection_source: tools/cli/package.json
+- name: fancy-log
+  description: Log things, prefixed with a timestamp
+  package_url: https://www.npmjs.com/fancy-log
+  version: 1.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17353/default_c1932d441699b98abea6098c6f8f65e2acb4f5ed.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/packages/identity-crisis/package.json
+  detection_source: projects/packages/identity-crisis/package.json
+- name: filesize
+  description: JavaScript library to generate a human readable String describing the
+    file size
+  package_url: https://www.npmjs.com/filesize
+  version: 8.0.6
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16611/default_5a21421012fa20e57fe0aeab31228f42e7118abc.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/packages/videopress/package.json
+  detection_source: projects/packages/videopress/package.json
+- name: fork-ts-checker-webpack-plugin
+  description: Runs typescript type checker and linter on separate process
+  package_url: https://www.npmjs.com/fork-ts-checker-webpack-plugin
+  version: 9.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16622/default_5a21421012fa20e57fe0aeab31228f42e7118abc.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/webpack-config/package.json
+  detection_source: projects/js-packages/webpack-config/package.json
+- name: fs-extra
+  description: Fs-extra contains methods that aren't included in the vanilla Node.js
+    fs package
+  package_url: https://www.npmjs.com/fs-extra
+  version: 10.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15836/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/plugins/jetpack/package.json
+  detection_source: projects/plugins/jetpack/package.json
+- name: glob
+  description: A little globber
+  package_url: https://www.npmjs.com/glob
+  version: 7.1.6
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15875/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/github-actions/repo-gardening/package.json
+  detection_source: projects/github-actions/repo-gardening/package.json
+- name: history
+  description: Manage session history with JavaScript
+  package_url: https://www.npmjs.com/history
+  version: 5.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16209/default_dc80ff0a17bac19253430a4f0f586714841116db.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/plugins/boost/package.json
+  detection_source: projects/plugins/boost/package.json
+- name: husky
+  description: Prevents bad commit or push
+  package_url: https://www.npmjs.com/husky
+  version: 8.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15831/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/package.json
+  detection_source: package.json
+- name: ignore
+  description: Ignore is a manager and filter for .gitignore rules
+  package_url: https://www.npmjs.com/ignore
+  version: 5.1.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17744/default_b527ab15473225ca7c2e9b197c9726e92ac97de8.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/tools/cli/package.json
+  detection_source: tools/cli/package.json
+- name: intersection-observer
+  description: A polyfill for IntersectionObserver
+  package_url: https://www.npmjs.com/intersection-observer
+  version: 0.12.0
+  license: W3C-20150513
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17476/default_a58bf1eaa94db61dd00126cc62306474c5213d3b.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/packages/lazy-images/package.json
+  detection_source: projects/packages/lazy-images/package.json
+- name: jest-environment-jsdom
+  description: Delightful JavaScript Testing
+  package_url: https://www.npmjs.com/jest-environment-jsdom
+  version: 29.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18413/default_867ef7396016341fd213fa568d6de11cc98fefff.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/ai-client/package.json
+  detection_source: projects/js-packages/ai-client/package.json
+- name: jest-extended
+  description: Additional Jest matchers
+  package_url: https://www.npmjs.com/jest-extended
+  version: 4.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17645/default_b06ec1ccf403dac1459596b8571a4fb6a46577e1.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/partner-coupon/package.json
+  detection_source: projects/js-packages/partner-coupon/package.json
+- name: js-yaml
+  description: YAML 1.2 parser and serializer
+  package_url: https://www.npmjs.com/js-yaml
+  version: 4.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15997/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/github-actions/required-review/package.json
+  detection_source: projects/github-actions/required-review/package.json
+- name: listr
+  description: Terminal task list
+  package_url: https://www.npmjs.com/listr
+  version: 0.14.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17782/default_99a4718ac3f2beccb28962b727b0a38010c9b496.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/tools/cli/package.json
+  detection_source: tools/cli/package.json
+- name: mapbox-gl
+  description: A WebGL interactive maps library
+  package_url: https://www.npmjs.com/mapbox-gl
+  version: 1.13.0
+  license: ICU
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18073/image.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/plugins/jetpack/package.json
+  detection_source: projects/plugins/jetpack/package.json
+- name: markdown-it
+  description: Markdown-it - modern pluggable markdown parser
+  package_url: https://www.npmjs.com/markdown-it
+  version: 14.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16277/default_ab17554b7e80af3d234b14168ed61e75d43f8eee.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/plugins/jetpack/package.json
+  detection_source: projects/plugins/jetpack/package.json
+- name: mime-types
+  description: The ultimate javascript content-type utility
+  package_url: https://www.npmjs.com/mime-types
+  version: 2.1.35
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16448/default_89ba91277e3434b03295bb11d22736632df1d04f.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/storybook/package.json
+  detection_source: projects/js-packages/storybook/package.json
+- name: mini-css-extract-plugin
+  description: Extracts CSS into separate files
+  package_url: https://www.npmjs.com/mini-css-extract-plugin
+  version: 2.4.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15992/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/webpack-config/package.json
+  detection_source: projects/js-packages/webpack-config/package.json
+- name: minimatch
+  description: A glob matcher in javascript
+  package_url: https://www.npmjs.com/minimatch
+  version: 5.1.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16195/default_180418c6fa6cdb8f7a3500f84a8fedb884fcb3fa.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/github-actions/test-results-to-slack/package.json
+  detection_source: projects/github-actions/test-results-to-slack/package.json
+- name: moment
+  description: Parse, validate, manipulate, and display dates
+  package_url: https://www.npmjs.com/moment
+  version: 2.29.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15847/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/github-actions/repo-gardening/package.json
+  detection_source: projects/github-actions/repo-gardening/package.json
+- name: node-fetch
+  description: A light-weight module that brings window.fetch to node.js
+  package_url: https://www.npmjs.com/node-fetch
+  version: 2.6.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15978/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/github-actions/repo-gardening/package.json
+  detection_source: projects/github-actions/repo-gardening/package.json
+- name: p-limit
+  description: Run multiple promise-returning &amp; async functions with limited concurrency
+  package_url: https://www.npmjs.com/p-limit
+  version: 4.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18388/default_404701144cd8e1becf3aec789202840caee4d78e.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/tools/cli/package.json
+  detection_source: tools/cli/package.json
+- name: pluralize
+  description: Pluralize and singularize any word
+  package_url: https://www.npmjs.com/pluralize
+  version: 8.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16498/default_4e3259350c525d1d859fa80a938000081d7c9db8.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/tools/cli/package.json
+  detection_source: tools/cli/package.json
+- name: postcss-custom-properties
+  description: Use Custom Properties Queries in CSS
+  package_url: https://www.npmjs.com/postcss-custom-properties
+  version: 12.1.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17216/default_37d9ccc57ae4d32e7ff46614e4f8bb2c4ddc7964.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/packages/search/package.json
+  detection_source: projects/packages/search/package.json
+- name: postcss-loader
+  description: PostCSS loader for webpack
+  package_url: https://www.npmjs.com/postcss-loader
+  version: 6.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15876/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/storybook/package.json
+  detection_source: projects/js-packages/storybook/package.json
+- name: process
+  description: Process information for node.js and browsers
+  package_url: https://www.npmjs.com/process
+  version: 0.11.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17866/default_99a4718ac3f2beccb28962b727b0a38010c9b496.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/tools/cli/package.json
+  detection_source: tools/cli/package.json
+- name: prop-types
+  description: Runtime type checking for React props and similar objects
+  package_url: https://www.npmjs.com/prop-types
+  version: 15.7.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15843/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/components/package.json
+  detection_source: projects/js-packages/components/package.json
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 18.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/ai-client/package.json
+  detection_source: projects/js-packages/ai-client/package.json
+- name: react-redux
+  description: Official React bindings for Redux
+  package_url: https://www.npmjs.com/react-redux
+  version: 7.2.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15984/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/packages/forms/package.json
+  detection_source: projects/packages/forms/package.json
+- name: react-router-dom
+  description: DOM bindings for React Router
+  package_url: https://www.npmjs.com/react-router-dom
+  version: 6.10.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16025/default_e25d1fbb04a118c79fb444294461417342bd03bf.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/packages/forms/package.json
+  detection_source: projects/packages/forms/package.json
+- name: react-test-renderer
+  description: React package for snapshot testing
+  package_url: https://www.npmjs.com/react-test-renderer
+  version: 18.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15929/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/components/package.json
+  detection_source: projects/js-packages/components/package.json
+- name: react-transition-group
+  description: A react component toolset for managing animations
+  package_url: https://www.npmjs.com/react-transition-group
+  version: 4.4.5
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16380/default_9ae0e75ed749aca83d89f7e1ccb309be2bfc610e.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/packages/forms/package.json
+  detection_source: projects/packages/forms/package.json
+- name: regenerator-runtime
+  description: Runtime for Regenerator-compiled generator and async functions
+  package_url: https://www.npmjs.com/regenerator-runtime
+  version: 0.13.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16148/default_9a7a7dcd69c12c746dc4000dc4d1b75758079c9f.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/plugins/jetpack/package.json
+  detection_source: projects/plugins/jetpack/package.json
+- name: remark-gfm
+  description: Remark plugin to support GFM
+  package_url: https://www.npmjs.com/remark-gfm
+  version: 4.0.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/storybook/package.json
+  detection_source: projects/js-packages/storybook/package.json
+- name: require-from-string
+  description: Require module from string
+  package_url: https://www.npmjs.com/require-from-string
+  version: 2.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18577/default_3a3bdb19c47f508090aa45abc5a396ca16544447.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/components/package.json
+  detection_source: projects/js-packages/components/package.json
+- name: resize-observer-polyfill
+  description: A polyfill for the Resize Observer API
+  package_url: https://www.npmjs.com/resize-observer-polyfill
+  version: 1.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17168/default_21a9522c66101ebad0e63609af74acb35fe29a0a.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/components/package.json
+  detection_source: projects/js-packages/components/package.json
+- name: rollup-plugin-livereload
+  description: Rollup plugin for LiveReload that watches the bundle and reloads the
+    page on change
+  package_url: https://www.npmjs.com/rollup-plugin-livereload
+  version: 2.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17581/default_ce23f9fa63028502fe46082904fea3786d97bed3.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/plugins/inspect/package.json
+  detection_source: projects/plugins/inspect/package.json
+- name: rollup-plugin-postcss
+  description: Seamless integration between Rollup and PostCSS
+  package_url: https://www.npmjs.com/rollup-plugin-postcss
+  version: 4.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16135/default_def3edb85d7fbd20200a5cd7d0a1679e31bc8b3d.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/image-guide/package.json
+  detection_source: projects/js-packages/image-guide/package.json
+- name: rollup-plugin-svelte
+  description: Compile Svelte components with Rollup
+  package_url: https://www.npmjs.com/rollup-plugin-svelte
+  version: 7.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18065/image.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/image-guide/package.json
+  detection_source: projects/js-packages/image-guide/package.json
+- name: sass-loader
+  description: Sass loader for webpack
+  package_url: https://www.npmjs.com/sass-loader
+  version: 12.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15842/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/storybook/package.json
+  detection_source: projects/js-packages/storybook/package.json
+- name: size-limit
+  description: CLI tool for Size Limit
+  package_url: https://www.npmjs.com/size-limit
+  version: 8.2.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17177/default_eb6674f470fe213f950fd09d858ebb0f6b6e3dda.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/packages/search/package.json
+  detection_source: projects/packages/search/package.json
+- name: sort-package-json
+  description: Sort an Object or package.json based on the well-known package.json
+    keys
+  package_url: https://www.npmjs.com/sort-package-json
+  version: 1.50.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17940/default_cc042fd7c0a9cf091d301af307c99c8b7b08b8bc.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/tools/js-tools/package.json
+  detection_source: tools/js-tools/package.json
+- name: sprintf-js
+  description: JavaScript sprintf implementation
+  package_url: https://www.npmjs.com/sprintf-js
+  version: 1.1.2
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16880/default_7fe969828600a90e84607bfa2a19979e53a0579d.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/tools/cli/package.json
+  detection_source: tools/cli/package.json
+- name: style-loader
+  description: Style loader module for webpack
+  package_url: https://www.npmjs.com/style-loader
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15822/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/storybook/package.json
+  detection_source: projects/js-packages/storybook/package.json
+- name: swiper
+  description: Most modern mobile touch slider and framework with hardware accelerated
+    transitions
+  package_url: https://www.npmjs.com/swiper
+  version: 6.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17656/default_b06ec1ccf403dac1459596b8571a4fb6a46577e1.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/plugins/jetpack/package.json
+  detection_source: projects/plugins/jetpack/package.json
+- name: terser-webpack-plugin
+  description: Terser plugin for webpack
+  package_url: https://www.npmjs.com/terser-webpack-plugin
+  version: 5.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16143/default_def3edb85d7fbd20200a5cd7d0a1679e31bc8b3d.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/webpack-config/package.json
+  detection_source: projects/js-packages/webpack-config/package.json
+- name: thread-loader
+  description: Runs the following loaders in a worker pool
+  package_url: https://www.npmjs.com/thread-loader
+  version: 3.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17547/default_809f38c280e61a39329e5ca5d8a16d8966425895.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/webpack-config/package.json
+  detection_source: projects/js-packages/webpack-config/package.json
+- name: tinycolor2
+  description: Fast Color Parsing and Manipulation
+  package_url: https://www.npmjs.com/tinycolor2
+  version: 1.4.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16845/default_768abdabb94806c932ace6262b6bbc8241907245.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/plugins/jetpack/package.json
+  detection_source: projects/plugins/jetpack/package.json
+- name: tmp
+  description: Temporary file and directory creator
+  package_url: https://www.npmjs.com/tmp
+  version: 0.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16251/default_380ae3d73e22c7ca1f42b96479bcd0095dabc0d3.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/tools/cli/package.json
+  detection_source: tools/cli/package.json
+- name: ts-jest
+  description: A preprocessor with source maps support to help use TypeScript with
+    Jest
+  package_url: https://www.npmjs.com/ts-jest
+  version: 29.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15864/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/plugins/super-cache/tests/e2e/package.json
+  detection_source: projects/plugins/super-cache/tests/e2e/package.json
+- name: tslib
+  description: Runtime library for TypeScript helper functions
+  package_url: https://www.npmjs.com/tslib
+  version: 2.5.0
+  license: 0BSD
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15853/default_97d4687bd07ff1bb963fd566c84e7cbf7c73bbee.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/image-guide/package.json
+  detection_source: projects/js-packages/image-guide/package.json
+- name: turndown
+  description: A library that converts HTML to Markdown
+  package_url: https://www.npmjs.com/turndown
+  version: 7.1.2
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/plugins/jetpack/package.json
+  detection_source: projects/plugins/jetpack/package.json
+- name: webpack-cli
+  description: CLI for webpack &amp; friends
+  package_url: https://www.npmjs.com/webpack-cli
+  version: 4.9.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15826/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/js-packages/boost-score-api/package.json
+  detection_source: projects/js-packages/boost-score-api/package.json
+- name: winston
+  description: A logger for just about everything
+  package_url: https://www.npmjs.com/winston
+  version: 3.8.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16003/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/tools/e2e-commons/package.json
+  detection_source: tools/e2e-commons/package.json
+- name: yargs
+  description: Yargs the modern, pirate-themed, successor to optimist
+  package_url: https://www.npmjs.com/yargs
+  version: 17.6.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15887/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/tools/cli/package.json
+  detection_source: tools/cli/package.json
+- name: antecedent/patchwork
+  description: Method redefinition
+  package_url: https://packagist.org/antecedent/patchwork
+  version: 2.1.28
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/plugins/automattic-for-agencies-client/composer.lock
+  detection_source: projects/plugins/jetpack/composer.json
+- name: automattic/woocommerce
+  description: A PHP wrapper for the WooCommerce REST API
+  package_url: https://packagist.org/automattic/woocommerce
+  version: 3.1.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/plugins/crm/composer.lock
+  detection_source: projects/plugins/crm/composer.json
+- name: brain/monkey
+  description: Mocking utility for PHP functions and WordPress plugin API
+  package_url: https://packagist.org/brain/monkey
+  version: 2.6.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/plugins/automattic-for-agencies-client/composer.lock
+  detection_source: projects/packages/assets/composer.json
+- name: codeception/codeception
+  description: BDD-style testing framework
+  package_url: https://packagist.org/codeception/codeception
+  version: 5.1.2
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/plugins/crm/composer.lock
+  detection_source: projects/plugins/crm/composer.json
+- name: composer/composer
+  description: Composer helps you declare, manage and install dependencies of PHP
+    projects
+  package_url: https://packagist.org/composer/composer
+  version: '2.0'
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/.github/actions/tool-setup/composer-plugin/composer.json
+  detection_source: ".github/actions/tool-setup/composer-plugin/composer.json"
+- name: composer/semver
+  description: Semver library that offers utilities
+  package_url: https://packagist.org/composer/semver
+  version: 3.4.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/composer.lock
+  detection_source: projects/plugins/beta/composer.json
+- name: dealerdirect/phpcodesniffer-composer-installer
+  description: PHP_CodeSniffer Standards Composer Installer Plugin
+  package_url: https://packagist.org/dealerdirect/phpcodesniffer-composer-installer
+  version: 1.0.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/composer.lock
+  detection_source: composer.json
+- name: dompdf/dompdf
+  description: DOMPDF is a CSS 2.1 compliant HTML to PDF converter
+  package_url: https://packagist.org/dompdf/dompdf
+  version: 2.0.4
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/plugins/crm/composer.lock
+  detection_source: projects/plugins/crm/composer.json
+- name: erusev/parsedown
+  description: Parser for Markdown
+  package_url: https://packagist.org/erusev/parsedown
+  version: 1.7.4
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/plugins/beta/composer.lock
+  detection_source: projects/plugins/beta/composer.json
+- name: johnkary/phpunit-speedtrap
+  description: Find and report on slow tests in your PHPUnit test suite
+  package_url: https://packagist.org/johnkary/phpunit-speedtrap
+  version: 4.0.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/plugins/jetpack/composer.lock
+  detection_source: projects/plugins/jetpack/composer.json
+- name: mediawiki/mediawiki-codesniffer
+  description: MediaWiki CodeSniffer Standards
+  package_url: https://packagist.org/mediawiki/mediawiki-codesniffer
+  version: 43.0.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/composer.lock
+  detection_source: projects/packages/codesniffer/composer.json
+- name: michelf/php-markdown
+  description: PHP Markdown
+  package_url: https://packagist.org/michelf/php-markdown
+  version: '2.0'
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/tools/cli/helpers/doc-parser/composer.json
+  detection_source: tools/cli/helpers/doc-parser/composer.json
+- name: nikic/php-parser
+  description: A PHP parser written in PHP
+  package_url: https://packagist.org/nikic/php-parser
+  version: 5.0.2
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/plugins/automattic-for-agencies-client/composer.lock
+  detection_source: projects/packages/analyzer/composer.json
+- name: phan/phan
+  description: A static analyzer for PHP
+  package_url: https://packagist.org/phan/phan
+  version: 5.4.3
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/composer.lock
+  detection_source: composer.json
+- name: php-mock/php-mock-phpunit
+  description: Mock built-in PHP functions
+  package_url: https://packagist.org/php-mock/php-mock-phpunit
+  version: '2.10'
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/packages/scheduled-updates/composer.json
+  detection_source: projects/packages/scheduled-updates/composer.json
+- name: phpcompatibility/phpcompatibility-wp
+  description: A ruleset for PHP_CodeSniffer to check for PHP cross-version compatibility
+    issues in projects
+  package_url: https://packagist.org/phpcompatibility/phpcompatibility-wp
+  version: 2.1.4
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/composer.lock
+  detection_source: projects/packages/codesniffer/composer.json
+- name: sirbrillig/phpcs-variable-analysis
+  description: A PHPCS sniff to detect problems with variables
+  package_url: https://packagist.org/sirbrillig/phpcs-variable-analysis
+  version: 2.11.17
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/composer.lock
+  detection_source: projects/packages/codesniffer/composer.json
+- name: squizlabs/php_codesniffer
+  description: PHP_CodeSniffer tokenizes PHP
+  package_url: https://packagist.org/squizlabs/php_codesniffer
+  version: 3.8.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/composer.lock
+  detection_source: composer.json
+- name: symfony/console
+  description: Eases the creation of beautiful and testable command line interfaces
+  package_url: https://packagist.org/symfony/console
+  version: 7.0.4
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/composer.lock
+  detection_source: projects/packages/changelogger/composer.json
+- name: symfony/process
+  description: Executes commands in sub-processes
+  package_url: https://packagist.org/symfony/process
+  version: 6.4.4
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/plugins/automattic-for-agencies-client/composer.lock
+  detection_source: projects/packages/changelogger/composer.json
+- name: tedivm/jshrink
+  description: Javascript Minifier built in PHP
+  package_url: https://packagist.org/tedivm/jshrink
+  version: 1.4.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/plugins/boost/composer.lock
+  detection_source: projects/plugins/boost/composer.json
+- name: tubalmartin/cssmin
+  description: A PHP port of the YUI CSS compressor
+  package_url: https://packagist.org/tubalmartin/cssmin
+  version: 4.1.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/projects/plugins/boost/composer.lock
+  detection_source: projects/plugins/boost/composer.json
+- name: wp-coding-standards/wpcs
+  description: PHP_CodeSniffer rules
+  package_url: https://packagist.org/wp-coding-standards/wpcs
+  version: 3.0.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/naywintx/jetpack/blob/trunk/composer.lock
+  detection_source: projects/packages/codesniffer/composer.json
